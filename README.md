@@ -1,5 +1,4 @@
-Hi, I’m @Leo-Campo, complete name's Leonardo Campitelli. I'm a recently graduated Computer Science Engineer aching to put my studies and techniques 
-developed while studying to the test.
+Hi, I’m @Leo-Campo, complete name's Leonardo Campitelli. I'm a recently graduated Computer Science Engineer aching to put my studies to the test while developing new tehcniques and methodologies. My main desire is to develop useful programs and applications to solve problems and needs, and I do love to code.
 
 As of now I'm working as a Software Engineering for an italian insurance company, getting to know the world outside of school and education. I love to
 discover new technologies and tools to help me become a better Developer and Software Engineer. I'll upload on github my main works and projects 
