@@ -8,6 +8,6 @@ In my free time I study and try out different technologies and programming langu
 Nontheless I'm a flexible developer open to all kinds of projects, as long as they are interesting
 and let me get my hands dirty. I do strive to provide readable and maintainable code with my personal signature on it.
 
-I'm currently on a journey to improve my contributions here on Github on take my profile here more seriously, feel free to reach out! 
+I'm currently on a journey to improve my contributions here on Github, taking my profile here more seriously, feel free to reach out! 
 
 Let's code something awesome together!
