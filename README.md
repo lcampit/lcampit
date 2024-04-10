@@ -14,7 +14,7 @@
 
 --- 
 
-Hi, I’m @Leo-Campo, complete name's Leonardo Campitelli. I'm a 👨‍💻 Computer Engineer aching to improve and fine-tune my own developing style. 
+Hi, I’m @lcampit, complete name's Leonardo Campitelli. I'm a 👨‍💻 Computer Engineer aching to improve and fine-tune my own developing style. 
 My main desire is to develop useful programs and applications to solve problems and needs, and I do love to code.
 
 As of now I'm working as a Software Engineer in Italy, developing web apps on both frontend and backend as well as scouting for different tools to improve
