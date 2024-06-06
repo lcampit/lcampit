@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width="200"/>
   <div id="views">
-    <img src="https://visitcount.itsvg.in/api?id=Leo-Campo&icon=0&color=10" alt="profile views"/>
+    <img src="https://visitcount.itsvg.in/api?id=lcampit&icon=0&color=10" alt="profile views"/>
   </div>
   <h1>
   Hello there!
@@ -133,10 +133,10 @@ Let's code something awesome together!
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # 🔥 Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Leo-Campo&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Campo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lcampit&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lcampit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Leo-Campo&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=lcampit&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
