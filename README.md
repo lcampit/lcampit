@@ -1,8 +1,5 @@
 <div id="header" align="center">
   <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width="200"/>
-  <div id="views">
-    <img src="https://visitcount.itsvg.in/api?id=lcampit&icon=0&color=10" alt="profile views"/>
-  </div>
   <h1>
   Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving-hand"/>
@@ -140,3 +137,5 @@ Let's code something awesome together!
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![](https://hit.yhype.me/github/profile?account_id=46381897)
